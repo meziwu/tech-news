@@ -22,6 +22,9 @@ SOURCES = [
     {"name": "TechOrange","url": "https://buzzorange.com/techorange/feed/",     "region": "tw"},
     {"name": "Cool3c",   "url": "https://www.cool3c.com/rss",                  "region": "tw"},
     {"name": "T客邦",     "url": "https://www.techbang.com/posts.rss",          "region": "tw"},
+    {"name": "數位時代",  "url": "https://www.bnext.com.tw/rss",                "region": "tw"},
+    {"name": "電腦王阿達","url": "https://www.kocpc.com.tw/feed",               "region": "tw"},
+    {"name": "INSIDE",   "url": "https://www.inside.com.tw/feed",              "region": "tw"},
     # 中國
     {"name": "少數派",    "url": "https://sspai.com/feed",                      "region": "cn"},
     {"name": "虎嗅",     "url": "https://www.huxiu.com/rss/0.xml",             "region": "cn"},
