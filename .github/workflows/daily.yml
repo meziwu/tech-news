@@ -2,7 +2,7 @@ name: Daily Tech News
 
 on:
   schedule:
-    - cron: '0 1 * * *'   # 每天 09:00 台灣時間 (UTC+8 = UTC 01:00)
+    - cron: '30 0 * * *'  # 每天 08:30 台灣時間 (UTC+8 = UTC 00:30)
   workflow_dispatch:        # 允許手動觸發（方便測試）
 
 jobs:

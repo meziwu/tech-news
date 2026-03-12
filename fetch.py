@@ -178,7 +178,7 @@ def build_html(articles_by_region: dict, date_str: str, pages_url: str) -> str:
   {tw_html}
   {cn_html}
 </div>
-<footer>自動生成於 {date_str} 09:00 &nbsp;|&nbsp;
+<footer>自動生成於 {date_str} 08:30 &nbsp;|&nbsp;
   <a href="{pages_url}" style="color:#aaa">查看最新版本</a>
 </footer>
 </body>
